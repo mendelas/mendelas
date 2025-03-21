@@ -6,16 +6,15 @@
 </div> 
 -->
 
-
-
 <!-- 2. profile -->
 ## An Aerospace Engineering and Robotics student
 
 - 🧑‍💻 I'm currently Master student at the [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html) of Tohoku University
+- 
 - 🌱 I’m currently learning SLAM to develop my original SLAM system!
+- 
 - 📫 How to reach me: **kota.ikeno.rs@gmail.com**
 <br>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
