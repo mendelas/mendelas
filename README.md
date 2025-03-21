@@ -1,8 +1,11 @@
 # Hi there 👋, I'm Kota Ikeno
 <!-- 1. GitHub username -->
+<!-- 
 <div align="right">
   <img src="https://github.com/mendelas" />
-</div>
+</div> 
+-->
+
 
 
 <!-- 2. profile -->
