@@ -38,13 +38,12 @@
 <!-- 4. GitHub username -->
 <!-- light mode：theme=light, dark mode：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendelas&show_icons=true&locale=en&layout=compact" alt="mendelas" /></p>
-<!--
+
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=mendelas&theme=light&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendelas&theme=vue-dark&layout=compact" />
 </div>
--->
+
 
 
 
