@@ -31,14 +31,14 @@
 <!-- light mode：theme=light, dark mode：theme=dark -->
 <!-- choice of icon：https://arc.net/l/quote/zizyykfh -->
 ## Language and Tools:
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=cpp,c,python,kotlin,dart,matlab,cmake,flutter,php,docker,androidstudio,bash,firebase,git,linux,flask,aws,ros,ubuntu" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=cpp,c,python,kotlin,dart,matlab,cmake,flutter,php,docker,androidstudio,bash,firebase,git,ros" />
 <br>
 
 
 <!-- 4. GitHub username -->
 <!-- light mode：theme=light, dark mode：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharitsinsunthorn&show_icons=true&locale=en&layout=compact" alt="tharitsinsunthorn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendelas&show_icons=true&locale=en&layout=compact" alt="mendelas" /></p>
 <!--
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=mendelas&theme=light&layout=compact" />
