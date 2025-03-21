@@ -16,14 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/tharit-sinsunthorn-58376523b/" target="blank">
+    <a href="https://www.linkedin.com/in/航太-池野-5930102a8/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tharit Sinsunthorn" height="30" width="40" />
     </a>
-    <a href="https://www.facebook.com/tharitkaka" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharit Sinsunthorn" height="30" width="40" />
+    <a href="https://www.facebook.com/profile.php?id=100089370167945" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kota ikeno" height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/thatharit__?igsh=bG8yeGs1bXJpcXU3&utm_source=qr" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tharit Sinsunthorn" height="30" width="40" />
+    <a href="https://x.com/ikeno_rs?s=21&t=I-jjUJUi4LP2hDEfd8e2TA" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="kota ikeno" height="30" width="40" />
     </a>
 </p>
 
@@ -31,7 +31,7 @@
 <!-- light mode：theme=light, dark mode：theme=dark -->
 <!-- choice of icon：https://arc.net/l/quote/zizyykfh -->
 ## Language and Tools:
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=cpp,c,python,kotlin,dart,matlab,cmake,flutter,php,docker,androidstudio,bash,firebase,git,ros" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=cpp,c,python,kotlin,dart,matlab,cmake,flutter,docker,androidstudio,bash,git,ros" />
 <br>
 
 
