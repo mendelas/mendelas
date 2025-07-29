@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning SLAM to develop my original SLAM system!
 
-- 📫 How to reach me: **kota.ikeno.rs@gmail.com**
+- 📫 How to reach me: **kota.ikeno.rs[at]gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
