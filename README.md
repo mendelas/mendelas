@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kota Ikeno</h1>
 <h3 align="center">An Aerospace Engineering and Robotics student</h3>
 
-- 🧑‍💻 I'm currently Master student at the [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html) of Tohoku University
+- 🧑‍💻 I'm currently Master student at the [Tough Robotics Laboratory]([https://tr.is.tohoku.ac.jp/]) of Tohoku University
 
 - 🌱 I’m currently learning SLAM to develop my original SLAM system!
 
