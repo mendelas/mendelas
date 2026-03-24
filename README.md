@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Kota Ikeno</h1>
-<h3 align="center">An Aerospace Engineering and Robotics student</h3>
+<h3 align="center">A Computer Science student</h3>
 
 - 🧑‍💻 I'm currently Master student at the [Tough Robotics Laboratory]([https://tr.is.tohoku.ac.jp/]) of Tohoku University
 
 - 🌱 I’m currently learning SLAM to develop my original SLAM system!
 
-- 📫 How to reach me: **kota.ikeno.rs[at]gmail.com**
+- 📫 How to reach me: **kota.ikeno.q7[at]dc.tohoku.ac.jp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
